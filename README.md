@@ -4,16 +4,15 @@ CalFresh is a state-managed program in California (known nationwide as the Suppl
 
 The program aims to help eligible households afford nutritious food and improve their overall health and well-being. The amount of benefits a household receives depends on factors such as income, household size, and expenses. Recipients can use the benefits to buy a variety of food items, including fruits, vegetables, meats, dairy products, and more.
 
-CalFresh is administered by the California Department of Social Services (CDSS) and is funded by the federal government. Eligibility is determined based on income and certain expenses. Applicants can apply online, in person, or by mail through their local county social services office.
+CalFresh is administered by the California Department of Social Services (CDSS) and is funded by the federal government. Eligibility is determined based on income and certain expenses. Applicants can apply online, in person, or by mail through their local county social services office.The program not only addresses immediate food needs but also strives to alleviate poverty and promote better nutrition among low-income individuals and families across California.
 
-The program not only addresses immediate food needs but also strives to alleviate poverty and promote better nutrition among low-income individuals and families across California.
-### Participate to the CalFresh Program
+
+## Participate to the CalFresh Program
 - Who: For low-income household, indivuduals, and families.
-- What: To apply for CalFresh, you'll need to provide information about your income, expenses, housing costs, and personal information for all members of your household. 
-- Where: The application process can vary by county
-  - Apply online
-  - In person (local county social services office)
-  - By mail
+- What: Provide information about your income, expenses, housing costs, and personal information for all members of your household. 
+- Where: The application process can vary by county, apply online, in person at your local county social services office, or by mail.
+
+
 ## Results
 ### Participants
 #### Demographics

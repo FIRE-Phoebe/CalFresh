@@ -8,9 +8,12 @@ CalFresh is administered by the California Department of Social Services (CDSS) 
 
 The program not only addresses immediate food needs but also strives to alleviate poverty and promote better nutrition among low-income individuals and families across California.
 ### Participate to the CalFresh Program
-#### Who
-#### What
-#### Where
+- Who: For low-income household, indivuduals, and families.
+- What: To apply for CalFresh, you'll need to provide information about your income, expenses, housing costs, and personal information for all members of your household. 
+- Where: The application process can vary by county
+  - Apply online
+  - In person (local county social services office)
+  - By mail
 ## Results
 ### Participants
 #### Demographics
@@ -19,3 +22,5 @@ The program not only addresses immediate food needs but also strives to alleviat
 ### Trends
 ## Summary
 ## Resources
+Apply CalFresh online: https://www.getcalfresh.org/en/signposts/application/basic_info
+

@@ -17,7 +17,14 @@ CalFresh is administered by the California Department of Social Services (CDSS) 
 
 ### Participants
 #### Demographics
-#### Annual Population
+- CalFresh CaseLoad: Child-Only Households, Person in Child-Only Household, English as Second Language(ESL) Childer Under Age 18, Elderly (60+).
+- County/State General Population: Total Population, Elderly Population (60+), Population Under Age 18, ESL Population (>=Age 5), SSI Recipients (State Data Exchange), Unemployment Rate, Persons Receiving Medi-Cal.
+
+
+#### Annual Population in 2022
+
+
+
 #### Processing Time& Accuracy
 ### Trends
 

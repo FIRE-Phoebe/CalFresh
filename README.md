@@ -14,12 +14,21 @@ CalFresh is administered by the California Department of Social Services (CDSS) 
 
 
 ## Results
+
 ### Participants
 #### Demographics
 #### Annual Population
 #### Processing Time& Accuracy
 ### Trends
+
+
+
 ## Summary
+
+
+
 ## Resources
-Apply CalFresh online: https://www.getcalfresh.org/en/signposts/application/basic_info
+Apply CalFresh online: https://www.getcalfresh.org
+CalFresh Official Website: https://www.cdss.ca.gov/calfresh
+Contact Local Office: https://www.cdss.ca.gov/county-offices
 

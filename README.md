@@ -1,14 +1,10 @@
 # CalFresh Program Analysis
 ## Overview of CalFresh Program
-CalFresh is a state-managed program in California (known nationwide as the Supplemental Nutrition Assistance Program or SNAP) that provides low-income individuals and families with funds on an Electronic Benefit Transfer (EBT) card. These funds can be used to purchase food at authorized retail stores, grocery stores, and farmer's markets.
-
-The program aims to help eligible households afford nutritious food and improve their overall health and well-being. The amount of benefits a household receives depends on factors such as income, household size, and expenses. Recipients can use the benefits to buy a variety of food items, including fruits, vegetables, meats, dairy products, and more.
-
-CalFresh is administered by the California Department of Social Services (CDSS) and is funded by the federal government. Eligibility is determined based on income and certain expenses. Applicants can apply online, in person, or by mail through their local county social services office.The program not only addresses immediate food needs but also strives to alleviate poverty and promote better nutrition among low-income individuals and families across California.
+CalFresh is a state-managed program in California (known nationwide as the Supplemental Nutrition Assistance Program or SNAP or food stamps) that provides low-income individuals and families with funds on an Electronic Benefit Transfer (EBT) card. These funds can be used to purchase food at authorized retail stores, grocery stores, and farmer's markets.The program aims to help eligible households afford nutritious food and improve their overall health and well-being. CalFresh is administered by the California Department of Social Services (CDSS) and is funded by the federal government. Eligibility is determined based on income and certain expenses. The program not only addresses immediate food needs but also strives to alleviate poverty and promote better nutrition among low-income individuals and families across California.
 
 
 ## Participate to the CalFresh Program
-- Who: For low-income household, indivuduals, and families.
+- Who: provide low-income household, indivuduals, and families with funds to afford nutritious food.
 - What: Provide information about your income, expenses, housing costs, and personal information for all members of your household. 
 - Where: The application process can vary by county, apply online, in person at your local county social services office, or by mail.
 
@@ -21,8 +17,9 @@ CalFresh is administered by the California Department of Social Services (CDSS) 
 - County/State General Population: Total Population, Elderly Population (60+), Population Under Age 18, ESL Population (>=Age 5), SSI Recipients (State Data Exchange), Unemployment Rate, Persons Receiving Medi-Cal.
 
 
-#### Annual Population in 2022
-
+#### Annual Population in CA
+- ```Top 10 Counties has the most population in California``` 
+  <img src="Resources/Images/Top 10 Populated_county in CA 2022.png" width="100" height="500">
 
 
 #### Processing Time& Accuracy

@@ -27,7 +27,7 @@ CalFresh is administered by the California Department of Social Services (CDSS) 
 
 #### Processing Time& Accuracy
 ### Trends
-
+Based on CF 296 FY22-23 CalFresh Monthly Caseload Movement Statistical Report, analyze the Sacramento county monthly Caseload status.
 
 
 ## Summary

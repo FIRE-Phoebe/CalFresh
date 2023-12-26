@@ -26,9 +26,12 @@ CalFresh is a state-managed program in California (known nationwide as the Suppl
 #### Processing Time& Accuracy
 ### Trends
 Based on CF 296 FY22-23 CalFresh Monthly Caseload Movement Statistical Report, analyze the Sacramento county monthly Caseload status.
-  ```Sacramento Annual CalFresh Stats by Age```
+  ``` Sacramento Annual CalFresh Stats by Age ``` 
+  
 
-    <img src="Resources/Image/Sac annual CF pati_by_age.png" width="400" height="500">
+    <img src="Resources/Image/Sac annual CF pati_by_age.png" width="400" height="500" >
+
+    
 ## Summary
 
 

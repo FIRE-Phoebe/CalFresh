@@ -20,7 +20,7 @@ CalFresh is a state-managed program in California (known nationwide as the Suppl
 #### Annual Population in CA
 - ``` Top 10 Counties has the most population in California ```
   
-    <img src="Resources/Image/Top 10 Populated_county in CA 2022.PNG" width="300" height="350">
+    <img src="Resources/Image/Top 10 Populated_county in CA 2022.PNG" width="600" height="350">
 
 
 #### Processing Time& Accuracy

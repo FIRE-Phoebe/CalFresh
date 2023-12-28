@@ -5,7 +5,7 @@ CalFresh is a state-managed program in California (known nationwide as the Suppl
 
 ## Participate to the CalFresh Program
 - Who: provide low-income household, indivuduals, and families with funds to afford nutritious food.
-- What: Provide information about your income, expenses, housing costs, and personal information for all members of your household. 
+- What: Provide information about your income, expenses, housing costs, and personal information for all members of your household to qualify CalFresh. 
 - Where: The application process can vary by county, apply online, in person at your local county social services office, or by mail.
 
 

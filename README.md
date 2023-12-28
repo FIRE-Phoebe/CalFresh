@@ -32,8 +32,9 @@ Based on CF 296 FY22-23 CalFresh Monthly Caseload Movement Statistical Report, a
 
 
   - Sacramento Total percentage SSI Recipients
-
-    
+ 
+   <img src="Resources/Image/Sac total %SSI recip.png" width="1000" height="500">
+   
 
 
     

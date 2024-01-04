@@ -44,4 +44,5 @@ Based on CF 296 FY22-23 CalFresh Monthly Caseload Movement Statistical Report, a
 - Apply CalFresh online: https://www.getcalfresh.org
 - CalFresh Official Website: https://www.cdss.ca.gov/calfresh
 - Contact Local Office: https://www.cdss.ca.gov/county-offices
+- CDSS organization chart: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cdss.ca.gov/Portals/13/CDSSOrgChart.pdf
 

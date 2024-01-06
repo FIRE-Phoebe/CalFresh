@@ -28,7 +28,7 @@ Based on CF 296 FY18-23 CalFresh Monthly Caseload Movement Statistical Report, a
   
   - CalFresh Caseload from 2018 to 2023 fiscal year.
 
-    <img src="Resources/Image/CF_fycaseload.png" width="1000" height="500" >
+    <img src="Resources/Image/CF_fycaseload.png" width="1000" height="800" >
     
  - CalFresh Caseload based on total pure state cases from last year.
 

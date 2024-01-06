@@ -28,7 +28,7 @@ Based on CF 296 FY18-23 CalFresh Monthly Caseload Movement Statistical Report, a
   
   - CalFresh Caseload from 2018 to 2023 fiscal year.
 
-    <img src="Resources/Image/CF_fycaseload.png" width="1200" height="500" >
+    <img src="Resources/Image/CF_fycaseload.png" width="1000" height="500" >
     
  - CalFresh Caseload based on total pure state cases from last year.
 
@@ -36,16 +36,16 @@ Based on CF 296 FY18-23 CalFresh Monthly Caseload Movement Statistical Report, a
 
  - CalFresh approved application vs. denied appliation of total caseload.
 
-    <img src="Resources/Image/CF approved vs denied app.png" width="1200" height="500" >
+    <img src="Resources/Image/CF approved vs denied app.png" width="1000" height="500" >
     
   - Sacramento Annual CalFresh Stats by Age
 
-   <img src="Resources/Image/Sac annual CF pati_by_age.png" width="1200" height="500" >
+   <img src="Resources/Image/Sac annual CF pati_by_age.png" width="1000" height="500" >
 
 
   - Sacramento Total percentage SSI Recipients
     
-<img src="Resources/Image/Sac total percentSSI recip.png" width="1200" height="500" >
+<img src="Resources/Image/Sac total percentSSI recip.png" width="1000" height="500" >
        
 ## Summary
   - CalFresh Application process types: there're 70% of the total caseload for applications are submitted online.

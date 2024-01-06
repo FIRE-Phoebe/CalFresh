@@ -5,9 +5,8 @@ CalFresh is a state-managed program in California (known nationwide as the Suppl
 
 ## Participate to the CalFresh Program
 - Who: provide low-income household, indivuduals, and families with funds to afford nutritious food.
-- What: Provide information about your income, expenses, housing costs, and personal information for all members of your household to qualify CalFresh. 
+- How: Provide information about your income, expenses, housing costs, and personal information for all members of your household to qualify CalFresh. 
 - Where: The application process can vary by county, apply online, in person at your local county social services office, or by mail.
-
 
 ## Results
 
@@ -25,19 +24,35 @@ CalFresh is a state-managed program in California (known nationwide as the Suppl
 
 #### Processing Time& Accuracy
 ### Trends
-Based on CF 296 FY22-23 CalFresh Monthly Caseload Movement Statistical Report, analyze the Sacramento county monthly Caseload status.
+Based on CF 296 FY18-23 CalFresh Monthly Caseload Movement Statistical Report, analyze the Sacramento county monthly Caseload status.
+  
+  - CalFresh Caseload from 2018 to 2023 fiscal year.
+
+    <img src="Resources/Image/CF_fycaseload.png" width="1200" height="500" >
+    
+ - CalFresh Caseload based on total pure state cases from last year.
+
+    <img src="Resources/Image/2023 total pure state caseload.png" width="1200" height="500" >
+
+ - CalFresh approved application vs. denied appliation of total caseload.
+
+    <img src="Resources/Image/CF approved vs denied app.png" width="1200" height="500" >
+    
   - Sacramento Annual CalFresh Stats by Age
 
-    <img src="Resources/Image/Sac annual CF pati_by_age.png" width="1200" height="500" >
+   <img src="Resources/Image/Sac annual CF pati_by_age.png" width="1200" height="500" >
 
 
   - Sacramento Total percentage SSI Recipients
- 
-     <img src="Resources/Image/Sac total %SSI recip.png" width="800" height="540">
-
+    
+<img src="Resources/Image/Sac total percentSSI recip.png" width="1200" height="500" >
        
 ## Summary
-
+  - CalFresh Application process types: there're 70% of the total caseload for applications are submitted online.
+Around 70% of the total caseload for CalFresh applications are submitted online.
+Over the past 5 fiscal years, there has been a consistent upward trend in the CalFresh caseload.
+CalFresh maintains an average caseload of 725,000 each fiscal year, with an average approval rate of 62% and a denial rate of 34%.
+Based on data from the previous year, there is a noticeable and steady increase in the total number of state cases.
 
 
 ## Resources
